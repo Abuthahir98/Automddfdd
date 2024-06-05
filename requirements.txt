@@ -1,0 +1,4 @@
+gtts
+requests
+moviepy
+gradio
